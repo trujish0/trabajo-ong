@@ -1,0 +1,11 @@
+
+.titulosprin {
+   text-align: center;
+    background-color: cyan;
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bolder;  
+}
+.subtitulo {
+    background-color: tomato;
+}
