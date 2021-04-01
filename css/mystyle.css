@@ -9,6 +9,7 @@
 
 body {
     margin: 0px;
+    
 }
 
 div {
@@ -29,31 +30,32 @@ div {
     position: absolute;
     right: 0px;
     height: 100%;
+    text-align: center;
 }
 
 .celeste {
 background-color: turquoise;
-padding: 80px;
+padding: 35px;
 text-align: center;
 height: 25%;
 }
 
 .amarillo {
  background-color: yellow;   
- padding: 80px;
+ padding: 35px;
  text-align: center;
  height: 25%;
 }
 .naranjo {
     background-color: orangered;
-    padding: 80px;
+    padding: 35px;
     text-align: center;
     height: 25%;
 
 }
 .rojo {
     background-color:rgb( 247, 26, 26);
-    padding: 80px;
+    padding: 35px;
     text-align: center;
     height: 25%;
 }
