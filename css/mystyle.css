@@ -1,11 +1,30 @@
-
-.titulosprin {
-   text-align: center;
-    background-color: cyan;
-    font-family: monospace;
-    font-size: 40px;
-    font-weight: bolder;  
+body {
+    margin: 0px;
+    background-color: rgb(49, 49, 56);
 }
-.subtitulo {
-    background-color: tomato;
+.celeste {
+background-color: turquoise;
+padding: 80px;
+margin-left: 140px;
+text-align: center;
+}
+
+.amarillo {
+ background-color: yellow;   
+ padding: 80px;
+ margin-left: 140px;
+ text-align: center;
+}
+.naranjo {
+    background-color: orangered;
+    padding: 80px;
+    margin-left: 140px;
+    text-align: center;
+
+}
+.rojo {
+    background-color:rgb( 247, 26, 26);
+    padding: 80px;
+    margin-left: 140px;
+    text-align: center;
 }
