@@ -1,30 +1,72 @@
+* { 
+    box-sizing: border-box;}
+
+     li,div,ol {
+         text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: white;
+    }
+
 body {
     margin: 0px;
-    background-color: rgb(49, 49, 56);
 }
+
+div {
+    display: block;
+}
+
+.contenedornegro {
+    width: 20%;
+    height: 100%;
+    background-color: rgb(41, 36, 36);
+    position: absolute;
+    top: 0px;
+
+}
+.contenedorcolores {
+    width: 80%;
+    background-color: indianred;
+    position: absolute;
+    right: 0px;
+    height: 100%;
+}
+
 .celeste {
 background-color: turquoise;
 padding: 80px;
-margin-left: 140px;
 text-align: center;
+height: 25%;
 }
 
 .amarillo {
  background-color: yellow;   
  padding: 80px;
- margin-left: 140px;
  text-align: center;
+ height: 25%;
 }
 .naranjo {
     background-color: orangered;
     padding: 80px;
-    margin-left: 140px;
     text-align: center;
+    height: 25%;
 
 }
 .rojo {
     background-color:rgb( 247, 26, 26);
     padding: 80px;
-    margin-left: 140px;
     text-align: center;
+    height: 25%;
 }
+
+a:hover{
+    color: whitesmoke;
+}
+ol:hover{
+color: whitesmoke;
+}
+
+
+
+
+
+
